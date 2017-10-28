@@ -5,7 +5,7 @@ Run vuls, go-cve-dictionary, goval-dictionary.
 ## Usage
 
 ```
-$ docker run -it --rm lorentzca/vuls-and-dictionary vuls
+$ docker run --rm lorentzca/vuls-and-dictionary vuls
 Usage: vuls <flags> <subcommand> <subcommand args>
 
 Subcommands:
